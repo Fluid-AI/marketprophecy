@@ -28,7 +28,7 @@ You submit your final code by creating a fork of this project and submitting it 
 Also see a sample pull request [here](https://github.com/Fluid-AI/marketprophecy/pull/2)
 
 Put your name as the pull request heading and in the details you can put your Email ID and as an additional optional item a base64 encoding of your mobile number. eg. (911111000 becomes OTExMTExMDAw). In case you are not comfortable putting your encoded mobile number you can just put in your email and name. 
-In the pull request please have a readme file called results.md with published results. 
+In the pull request please have a readme file called results.md with published results.. 
 
 <br />
 
