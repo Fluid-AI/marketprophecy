@@ -12,7 +12,7 @@ Prediction Chart for testing dataset
 
 ![image](https://user-images.githubusercontent.com/95767799/153067668-a566dde8-c404-49b9-999a-a8070470f656.png)
 
-# Mean Squared Error Value score for Testing dataset : 0.06399612590617451
+# Mean Squared Error Value score for Out of Time dataset : 0.06399612590617451
 
 Prediction chart for Out of Time dataset
 
