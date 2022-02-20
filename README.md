@@ -20,6 +20,13 @@ The aim is to predict the future, have fun and make money while we do it :)
 
 Your performance is evaluated based on the out of time results you publish and the quality of your code and the approach taken. Please also publish train and test performance results and keep an out of time set which is never shown or used by the model at the time of training. 
 
+You should also have a predict() function in a separate .py file in your pull request. 
+The function should have 1 parameter:
+1) Dataframe (with the same columns as the training data) of the latest market data available (This is needed in case your model needs certain past data to predict future data). On top of the function please have a comment of how many days past data is needed for the model to make predictions.
+
+The function should return:
+1) A Dataframe of forward predictions (for as many days forward as your model supports. Eg. If your model supports 30 days forward, then an output of all 30 days prediction. The dataframe should have the columns date and price prediction
+
 <br />
 
 ## Your Submission (How do I submit)
